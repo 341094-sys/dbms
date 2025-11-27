@@ -1,5 +1,7 @@
 DBMS Term Project
 
+(Apollo Hospital)
+
 Submitted to: Prof. Ashok Harnal
 
 Submitted by:
