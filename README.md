@@ -1,5 +1,6 @@
 Hospital Management System
-A structured database system designed to efficiently manage hospital operations, including patient records, doctor details, appointments, treatments, billing, and administrative workflows.
+A structured database system designed to efficiently manage hospital operations, including patient records, doctor details, appointments, treatments, billing, and administrative workflows.  
+
 Overview
 
 The Hospital Management System (HMS) database aims to streamline and digitize core operations of a hospital.
