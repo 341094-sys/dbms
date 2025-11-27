@@ -1,4 +1,5 @@
 Hospital Management System
+
 A structured database system designed to efficiently manage hospital operations, including patient records, doctor details, appointments, treatments, billing, and administrative workflows.  
 
 Overview
