@@ -52,4 +52,5 @@ Billing is associated with each patient, with the possibility of multiple bills.
 Rooms may be assigned to patients when occupied (optional 1:1 relationship).
 
 The design ensures smooth data flow and clear linkages across hospital activities.
+<img width="758" height="747" alt="image" src="https://github.com/user-attachments/assets/60b74588-1207-4575-a35b-96bd10036147" />
 
